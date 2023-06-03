@@ -1,0 +1,36 @@
+
+
+en las siguientes líneas inserta la palabra world antes de hello:
+
+Lorem ipsum dolor sit amet hello 
+Lorem hello ipsum dolor sit amet hello 
+Lorem ipsum hello dolor hellosit amet 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, hello sed do eiusmod tempor incididunt ut labore hello et dolore magna aliqua. Ut enim ad hello minim veniam, quis hello nostrud exercitation ullamco hello laboris nisi ut aliquip ex ea commodo consequat. hello Duis aute hello irure dolor in hello reprehenderit in voluptate velit hello esse cillum hello dolore eu hello fugiat nulla hello pariaturhello hello hello . Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
+
+en las siguientes lineas agrega world después de hello:
+
+
+
+Lorem hello ipsum dolor sit amet hello 
+Lorem hello ipsum dolor sit hello amet hello 
+hello ipsum dolor sit amet hello 
+hello ipsum hello dolor sit amet hello 
+hello ipsum dolor hello sit amet hello 
+
+
+borra las siguientes lineas:
+
+
+Lorem hello ipsum dolor sit amet hello 
+Lorem hello ipsum dolor sit hello amet hello 
+hello ipsum dolor sit amet hello 
+hello ipsum hello dolor sit amet hello 
+hello ipsum dolor hello sit amet hello 
+
+
+deshacer todos los cambios y salir sin guardar
+
+entra de nuevo y has todos los cambios y salir guardando tu archivo
+
+
